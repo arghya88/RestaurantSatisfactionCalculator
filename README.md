@@ -30,6 +30,4 @@ Steps to the Run the Project:
 
 Run the application by clicking on the file Application.java and Run as Java Application.
 Output can be seen on the console.
-
-To Run the test cases:
 To Run Individual Test Files , Click on Files having pattern *Tests.java and run as JUNIT Tests.
