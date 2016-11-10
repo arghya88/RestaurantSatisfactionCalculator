@@ -1,4 +1,4 @@
-MaxSatisfactionCalculator
+RestaurantSatisfactionCalculator
 
 Assumptions:
 
